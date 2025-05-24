@@ -33,8 +33,6 @@ GoalTracker is a full-stack application built with **NestJS**, **Angular**, and 
 
 - Swagger for auto-documentation
 - DTOs for cleaner request validation
-- Docker support (optional)
-
 ---
 
 ## 📦 Installation
